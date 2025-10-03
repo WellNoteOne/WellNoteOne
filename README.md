@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=WellNoteOne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=WellNoteOne&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WellNoteOne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<span style="color:black">Hello</span>
+<span style="color: black;">Hello</span>
 ---
 [![](https://visitcount.itsvg.in/api?id=WellNoteOne&icon=0&color=0)](https://visitcount.itsvg.in)
 
